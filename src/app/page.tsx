@@ -93,7 +93,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-        Hello 
+        Hello world I am heet pramar
         </a>
       </footer>
     </div>
